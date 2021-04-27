@@ -1,7 +1,5 @@
 ## Desafio NodeJs com Nginx
 
-- Criar pasta mysql caso não exista :)
-
 ```
 basta rodar o comando
 $ docker-compose up -d
